@@ -10,19 +10,19 @@ This project applies Statistical Process Control (SPC) techniques to analyze PM2
 
 ## Individuals Control Chart – Delhi
 
-![Delhi I Chart](figures/delhi_I.png)
+![Delhi I Chart](figures/I_Delhi.png)
 
 ## Moving Range Chart – Delhi
 
-![Delhi MR Chart](figures/delhi_MR.png)
+![Delhi MR Chart](figures/MR_Delhi.png)
 
 ## Individuals Control Chart – Gurugram
 
-![Gurugram I Chart](figures/gurugram_I.png)
+![Gurugram I Chart](figures/I_Gurugram.png)
 
 ## Moving Range Chart – Gurugram
 
-![Gurugram_MR Chart](figures/gurugram_MR.png)
+![Gurugram_MR Chart](figures/MR_Gurugram.png)
 
 ## Dataset
 This project uses the **Air Quality Data in India** dataset, publicly available on Kaggle. The dataset contains hourly and daily air quality measurements for multiple Indian cities, including PM2.5 concentration levels.
